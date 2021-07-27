@@ -1,4 +1,4 @@
-[<img src="https://suyukun666.github.io/suyukun.github.io/my_pic.jpg" height="200" style="float: right;">](https://suyukun666.github.io/suyukun.github.io//my_pic.jpg)
+[<img src="https://suyukun666.github.io/my_pic.jpg" height="200" style="float: right;">](https://suyukun666.github.io/my_pic.jpg)
 
 Yukun Su  
 Ph.D. Candidate  
