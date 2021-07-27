@@ -24,7 +24,7 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 ## Awards  
 1. **CVPR2019 Workshop FGVC6**, Silver medal, 2019.  [Link](https://www.kaggle.com/suyukun) 
-2. **CVPR2019 Workshop Google Landmark Recognition**,  bronze medal, 2019.  [Link](https://www.kaggle.com/suyukun) 
+2. **CVPR2019 Workshop Google Landmark Recognition**,  Bronze medal, 2019.  [Link](https://www.kaggle.com/suyukun) 
 3. **Cross-Strait Robotics Symposium and Robotics Challenge**, Second prize, 2019.
 
 
