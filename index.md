@@ -34,15 +34,27 @@ Computer vision, Visual recognition, Deep learning, etc.
   Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation;       
   International Conference on Computer Vision (ICCV), 2021;   
   ***Code: <https://github.com/suyukun666/CDA>***
+  
+  
+  
 - **Yukun Su**, Guosheng Lin, Qingyao Wu;              
   Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity;       
   International Conference on Computer Vision (ICCV), 2021;    
+  
+  
+  
 - **Yukun Su**, Guosheng Lin, RuiZhou Sun, Yun Hao, Qingyao Wu;        
   Modeling the Uncertainty for Self-supervised 3D Skeleton Action Representation Learning;        
   ACM International Conference on Multimedia (ACM MM) 2021;    
+  
+  
+  
 - **Yukun Su**, Guosheng Lin, Jinhui Zhu, Qingyao Wu;       
   Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition;       
   European Conference on Computer Vision (ECCV) 2020;   
+  
+  
+  
 - Chunshan Li, **Yukun Su**, Jinhui Zhu; （The first two authors contribute equally）   
   Light-weight spliced convolution network-based automatic water meter reading in smart city;       
   IEEE Access, 2019;   
