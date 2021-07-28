@@ -30,9 +30,7 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 
 ## Publications
--  [<img src="https://suyukun666.github.io/001.png" height="200" style="float: right;">
-  
-  **Yukun Su**, Guosheng Lin, RuiZhou Sun, Qingyao Wu;   
+- **Yukun Su**, Guosheng Lin, RuiZhou Sun, Qingyao Wu;   
   Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation;       
   International Conference on Computer Vision (ICCV), 2021;   
   ***Code: <https://github.com/suyukun666/CDA>***
