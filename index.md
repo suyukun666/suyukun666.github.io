@@ -54,7 +54,7 @@ Computer vision, Visual recognition, Deep learning, etc.
   European Conference on Computer Vision (ECCV) 2020;   
   
 - Chunshan Li, **Yukun Su**, Jinhui Zhu; （The first two authors contribute equally）   
-  Light-weight spliced convolution network-based automatic water meter reading in smart city;       
+  Light-weight spliced convolution network-based automatic water meter reading in smart city; [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917620)      
   IEEE Access, 2019;   
 
 
