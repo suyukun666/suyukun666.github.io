@@ -31,7 +31,7 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 ## Publications
 - **Yukun Su**, Guosheng Lin, RuiZhou Sun, Qingyao Wu;   
-  Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation;       
+  Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation; [Link](https://arxiv.org/pdf/2103.01795.pdf)       
   International Conference on Computer Vision (ICCV), 2021;   
   ***Code: <https://github.com/suyukun666/CDA>***
   
@@ -50,7 +50,7 @@ Computer vision, Visual recognition, Deep learning, etc.
   
   
 - **Yukun Su**, Guosheng Lin, Jinhui Zhu, Qingyao Wu;       
-  Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition;       
+  Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition; [Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490069.pdf)       
   European Conference on Computer Vision (ECCV) 2020;   
   
 - Chunshan Li, **Yukun Su**, Jinhui Zhu; （The first two authors contribute equally）   
