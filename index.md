@@ -51,7 +51,7 @@ Computer vision, Visual recognition, Deep learning, etc.
   
 - **Yukun Su**, Guosheng Lin, Jinhui Zhu, Qingyao Wu;       
   Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition;        
-  European Conference on Computer Vision (ECCV) 2020;   
+  European Conference on Computer Vision (ECCV) 2020 Spotlight;   
   
 - Chunshan Li, **Yukun Su**, Jinhui Zhu; （The first two authors contribute equally）   
   Light-weight spliced convolution network-based automatic water meter reading in smart city;       
