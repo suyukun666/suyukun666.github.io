@@ -16,11 +16,13 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 
 ##  Experience
-1. 2020 - present: Ph.D. Candidate, School of Software Engineering, South China University of Technology.
+1. 2020 - present: Ph.D. Visiting Scholar, School of Computer Science and %Engineering, Nanyang Technological University.
 
-2. 2018 - 2020: Master Degree. School of Software Engineering, South China University of Technology.
+2. 2020 - present: Ph.D. Candidate, School of Software Engineering, South China University of Technology. 
 
-   
+3. 2018 - 2020: Master Degree. School of Software Engineering, South China University of Technology.
+
+    
 
 ## Awards  
 1. **CVPR2019 Workshop FGVC6**, Silver medal, 2019.  [Link](https://www.kaggle.com/suyukun) 
@@ -53,10 +55,9 @@ Computer vision, Visual recognition, Deep learning, etc.
   Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition;        
   European Conference on Computer Vision (ECCV) 2020 Spotlight;   
   
-- Chunshan Li, **Yukun Su**, Jinhui Zhu; （The first two authors contribute equally）   
+- Chunshan Li\*, **Yukun Su**\*, Jinhui Zhu; （The first two authors contribute equally）   
   Light-weight spliced convolution network-based automatic water meter reading in smart city;       
   IEEE Access, 2019;   
-
 
 
 
