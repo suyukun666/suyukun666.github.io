@@ -32,6 +32,12 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 
 ## Publications
+- **Yukun Su**, Guosheng Lin, Qingyao Wu;              
+  Self-Supervised Object Localization with Joint Graph Partition;       
+  Conference on Artificial Intelligence (AAAI), 2022;    
+  
+  
+  
 - **Yukun Su**, Guosheng Lin, RuiZhou Sun, Qingyao Wu;   
   Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation;        
   International Conference on Computer Vision (ICCV), 2021;   
