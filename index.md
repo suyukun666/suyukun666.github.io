@@ -16,7 +16,7 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 
 ##  Education
-1. 2020 - present: Ph.D. Scholar, School of Computer Science and Engineering, Nanyang Technological University.
+1. 2020 - present: Ph.D. Visiting Scholar, School of Computer Science and Engineering, Nanyang Technological University.
 
 2. 2020 - present: Ph.D. Candidate, School of Software Engineering, South China University of Technology. 
 
