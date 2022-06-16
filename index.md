@@ -15,14 +15,16 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 
 
-##  Education
-1. 2020 - present: Ph.D. Visiting Scholar, School of Computer Science and Engineering, Nanyang Technological University.
+##  Experience
+1. 2021 -present:  Computer Vision Research Internship, [SenseTime](https://www.linkedin.com/in/yukun-su-0878b4227/?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=cn).
 
-2. 2020 - present: Ph.D. Candidate, School of Software Engineering, South China University of Technology. 
+2. 2020 - present: Ph.D. Visiting Scholar, School of Computer Science and Engineering, Nanyang Technological University.
 
-3. 2018 - 2020: Master Degree. School of Software Engineering, South China University of Technology.
+3. 2020 - present: Ph.D. Candidate, School of Software Engineering, South China University of Technology. 
 
-    
+4. 2018 - 2020: Master Degree. School of Software Engineering, South China University of Technology.
+
+     
 
 ## Awards  
 1. **CVPR2019 Workshop FGVC6**, Silver medal, 2019.  [Link](https://www.kaggle.com/suyukun) 
