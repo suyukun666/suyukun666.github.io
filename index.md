@@ -39,7 +39,7 @@ Computer vision, Visual recognition, Deep learning, etc.
   
   
 - **Yukun Su**, Jingliang Deng, RuiZhou Sun, Guosheng Lin, Qingyao Wu;   
-  [A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection;        
+  A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection;        
   Arxiv, 2022;   
   ***Code: <https://github.com/suyukun666/UFO>***
 
