@@ -34,6 +34,12 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 
 ## Publications
+- **Yukun Su**, Ruizhou Sun Guosheng Lin, Qingyao Wu;              
+  General Object Pose Transformation Network from Unpaired Data;       
+  European Conference on Computer Vision (ECCV) 2022;  
+
+
+
 - **Yukun Su**, Guosheng Lin, Qingyao Wu;              
   Self-Supervised Object Localization with Joint Graph Partition;       
   Conference on Artificial Intelligence (AAAI), 2022;    
@@ -77,8 +83,3 @@ Computer vision, Visual recognition, Deep learning, etc.
 ## Services
 
 1. Reviewers for ICCV2021, CVPR2022, ECCV2022, NIPS2022
-
-
-
-
-
