@@ -35,8 +35,9 @@ Computer vision, Visual recognition, Deep learning, etc.
 
 ## Publications
 - **Yukun Su**, Ruizhou Sun Guosheng Lin, Qingyao Wu;              
-  General Object Pose Transformation Network from Unpaired Data;       
-  European Conference on Computer Vision (ECCV) 2022;  
+  General Object Pose Transformation Network from Unpaired Data;             
+  European Conference on Computer Vision (ECCV) 2022;   
+  ***Code: <https://github.com/suyukun666/UFO-PT>***
 
 
 
