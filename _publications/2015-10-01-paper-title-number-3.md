@@ -1,7 +1,7 @@
 ---
 title: "Robust network architecture search via feature distortion restraining"
 collection: publications
-permalink: /publication/Robust network architecture search via feature distortion restraining
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Robust network architecture search via feature distortion restraining'
 date: 2022
 venue: 'Journal 1'
