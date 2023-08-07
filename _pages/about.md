@@ -1,5 +1,11 @@
 ---
-layout: page
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # About Me
@@ -11,10 +17,11 @@ I received the B.S. degree of statistics from Wuhan University of Science and Te
 <br>
 
 ## Academic Background
+
 - **Sep 2023 - NOW:** South China University of Technology (PhD)
 - **Sep 2020 - Jan 2023:** Zhejiang University of Science and Technology (MS)
 - **Sep 2015 - Jul 2019:** Wuhan University of Science and Technology (BSc)
-<br>
+  <br>
 
 ---
 
@@ -34,4 +41,3 @@ I received the B.S. degree of statistics from Wuhan University of Science and Te
 - **Sep 2023：** Admitted to South China University of Technology
 
 <br>
-
