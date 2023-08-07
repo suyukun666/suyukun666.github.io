@@ -11,9 +11,9 @@ title                    : "Shenghui Huang"
 title_separator          : "-"
 name                     : &name "Shenghui Huang"
 description              : &description "personal description"
-url                      : https://shenghuihuang01.github.io # the base hostname & protocol for your site e.g. "https://shenghuihuang01.github.io"
+url                      : https://shenghuihuang.github.io # the base hostname & protocol for your site e.g. "https://shenghuihuang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shenghuihuang01/shenghuihuang01.github.io"
+repository               : "shenghuihuang/shenghuihuang.github.io"
 teaser                   : "hsh.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Shenghui Huang"
-  avatar           : "hsh.png"
+  avatar           : "hsh.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "China"
   employer         :
-  pubmed           :
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Evjy06kAAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shenghui huang"
+  github           : "shenghuihuang"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
