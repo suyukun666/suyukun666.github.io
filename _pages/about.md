@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is **Shenghui Huang (黄生辉)**.
-
-I am a doctoral student majoring in electronic information in South China University of Technology. I received my bachelor's degree in statistics from Wuhan University of Science and Technology in 2019 and my M.S. degree in applied statistics from Zhejiang University of Science and Technology in 2023.
+Here is **Shenghui Huang (黄生辉)**.<br>I am a doctoral student majoring in electronic information in South China University of Technology. I received my bachelor's degree in statistics from Wuhan University of Science and Technology in 2019 and my M.S. degree in applied statistics from Zhejiang University of Science and Technology in 2023.
 
 ## Academic Background
 - **Sep. 2023 - NOW:** South China University of Technology (Doctoral Student )
