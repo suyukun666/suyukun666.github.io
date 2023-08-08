@@ -16,7 +16,7 @@ Lastest Update: Aug 2023 &nbsp;
 
 - **Nov. 2022:** Second-class scholarship for post-graduate students
 - **Nov. 2021**: Second-class scholarship for post-graduate students
-- Nov. 2020: Second-class scholarship for post-graduate students
+- **Nov. 2020:** Second-class scholarship for post-graduate students
 
 ## Servicess
 
