@@ -29,14 +29,15 @@
   }
 
   .publication-links {
+    width: 100%; /* 让链接占满整个宽度 */
+    margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
-    margin-top: 10px;
+    justify-content: space-between; /* 在链接之间添加空白，横向排列 */
   }
 
   .publication-links a {
-    display: inline-block;
-    margin-right: 10px;
+    margin-right: 10px; /* 调整链接之间的间距 */
   }
 </style>
 
@@ -44,7 +45,7 @@
   <h1>Publications</h1>
 
   <ul class="publication-list">
-    {% for post in site.publications reversed%}
+    {% for post in site.publications %}
       <li class="publication-item">
         <div class="publication-image">
           {% if post.image %}
@@ -58,17 +59,17 @@
           <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
           <p>{{ post.venue }}</p>
           <p>{{ post.description }}</p>
-        </div>
-        <div class="publication-links">
-          {% if post.pdfurl %}
-            <a href="{{ post.pdfurl }}" target="_blank">PDF</a>
-          {% endif %}
-          {% if post.codeurl %}
-            <a href="{{ post.codeurl }}" target="_blank">Code</a>
-          {% endif %}
-          {% if post.demourl %}
-            <a href="{{ post.demourl }}" target="_blank">Demo</a>
-          {% endif %}
+          <div class="publication-links">
+            {% if post.pdfurl %}
+              <a href="{{ post.pdfurl }}" target="_blank">PDF</a>
+            {% endif %}
+            {% if post.codeurl %}
+              <a href="{{ post.codeurl }}" target="_blank">Code</a>
+            {% endif %}
+            {% if post.demourl %}
+              <a href="{{ post.demourl }}" target="_blank">Demo</a>
+            {% endif %}
+          </div>
         </div>
       </li>
     {% endfor %}
