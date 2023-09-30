@@ -1,14 +1,32 @@
+<style>
+  /* 新的 CSS 样式 */
+  .publication-item {
+    display: flex; /* 使用 flex 布局 */
+  }
+
+  .publication-image {
+    flex: 1; /* 图片占据四分之一的宽度 */
+    margin-right: 20px; /* 图片右侧留出一些间距 */
+  }
+
+  .publication-content {
+    flex: 3; /* 内容占据三分之一的宽度 */
+  }
+
+  /* 可以根据需要进一步调整样式 */
+</style>
+
 <div class="publications">
   <h1>Publications</h1>
 
   <ul class="publication-list">
     {% for post in site.publications %}
       <li class="publication-item">
+        <!-- 添加图片 -->
+        <div class="publication-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width: 100%;">
+        </div>
         <div class="publication-content">
-          <!-- 添加图片 -->
-          <div class="publication-image">
-            <img src="{{ post.image }}" alt="{{ post.title }}">
-          </div>
           <h2>{{ post.title }}</h2>
           <p class="publication-author">Author: {{ post.author }}</p>
           <p class="publication-journal">Journal: {{ post.journal }}</p>
