@@ -18,21 +18,11 @@
   .publication-content {
     flex: 1;
     display: flex;
-    flex-direction: column; /* 将内容内部垂直排列 */
-  }
-
-  .publication-author {
-    margin-top: 2px;
-  }
-
-  .publication-journal {
-    margin-top: 1px;
   }
 
   .publication-links {
     margin-top: 2px;
   }
-
   .publication-links a {
     margin-right: 3px; /* 调整链接之间的间距 */
   }
@@ -51,9 +41,9 @@
         </div>
         <div class="publication-content">
           <h2>{{ post.title }}</h2>
-          <p class="publication-author">Author: {{ post.author }}</p>
-          <p class="publication-journal">Journal: {{ post.journal }}</p>
-          <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
+          <p>{{ post.author }}</p>
+          <p>{{ post.journal }}</p>
+          # <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
           <p>{{ post.venue }}</p>
           <p>{{ post.description }}</p>
           <div class="publication-links">
