@@ -11,7 +11,7 @@
   }
 
   .publication-image img {
-    max-width: 100%; /* 图片最大宽度为其容器的50% */
+    max-width: 20%; /* 图片最大宽度为其容器的100% */
     height: auto; /* 高度自动调整以保持比例 */
   }
 
@@ -29,6 +29,15 @@
     display: inline-block;
     margin-right: 10px; /* 调整链接之间的间距 */
   }
+
+  .publication-author {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+  .publication-journal {
+    margin-top: 5px;
+  }
 </style>
 
 <div class="publications">
@@ -44,6 +53,8 @@
         </div>
         <div class="publication-content">
           <h2>{{ post.title }}</h2>
+          <p class="publication-author">Author: {{ post.author }}</p>
+          <p class="publication-journal">Journal: {{ post.journal }}</p>
           <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
           <p>{{ post.venue }}</p>
           <p>{{ post.description }}</p>
