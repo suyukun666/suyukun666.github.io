@@ -19,13 +19,25 @@
     flex: 1;
     display: flex;
     flex-direction: column; /* 将内容内部垂直排列 */
+    margin-top: 0; /* 减小顶部间距 */
+    margin-bottom: 0; /* 减小底部间距 */
+  }
+
+  .publication-author {
+    margin-top: 5px; /* 调整作者信息的顶部间距 */
+    font-weight: bold;
+  }
+
+  .publication-journal {
+    margin-top: 5px; /* 调整期刊信息的顶部间距 */
   }
 
   .publication-links {
-    margin-top: 2px;
+    margin-top: 5px; /* 调整链接的顶部间距 */
   }
+
   .publication-links a {
-    margin-right: 3px; /* 调整链接之间的间距 */
+    margin-right: 10px; /* 调整链接之间的间距 */
   }
 </style>
 
@@ -42,9 +54,9 @@
         </div>
         <div class="publication-content">
           <h2>{{ post.title }}</h2>
-          <p>{{ post.author }}</p>
-          <p>{{ post.journal }}</p>
-          % <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
+          <p class="publication-author">Author: {{ post.author }}</p>
+          <p class="publication-journal">Journal: {{ post.journal }}</p>
+          <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
           <p>{{ post.venue }}</p>
           <p>{{ post.description }}</p>
           <div class="publication-links">
