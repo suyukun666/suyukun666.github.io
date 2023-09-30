@@ -2,17 +2,19 @@
   /* 新的 CSS 样式 */
   .publication-item {
     display: flex;
-    align-items: center; /* 垂直居中 */
+    align-items: center; /* 项目垂直居中对齐 */
   }
 
   .publication-image {
     flex: 1; /* 图片占据三分之一的宽度 */
     margin-right: 20px; /* 图片右侧留出一些间距 */
+    display: flex;
+    justify-content: center; /* 图片水平居中对齐 */
   }
 
   .publication-image img {
     max-width: 100%;
-    display: block; /* 修复图片下方可能出现的空隙问题 */
+    max-height: 100%; /* 图片高度不超过父容器 */
   }
 
   .publication-content {
@@ -34,6 +36,7 @@
           <h2>{{ post.title }}</h2>
           <p class="publication-author">Author: {{ post.author }}</p>
           <p class="publication-journal">Journal: {{ post.journal }}</p>
+          <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
           <p>{{ post.venue }}</p>
           <p>{{ post.description }}</p>
           <div class="publication-links">
