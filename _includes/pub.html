@@ -1,3 +1,36 @@
+<style>
+  .publication-item {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .publication-image {
+    flex: 0 0 auto;
+    margin-right: 20px; /* 调整图片和内容之间的间距 */
+  }
+
+  .publication-image img {
+    max-width: 100%; /* 图片最大宽度为其容器的100% */
+    height: auto; /* 高度自动调整以保持比例 */
+  }
+
+  .publication-content {
+    flex: 1;
+  }
+
+  .publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px; /* 调整链接之间的间距 */
+  }
+
+  .publication-links a {
+    display: inline-block;
+    margin-right: 10px; /* 调整链接之间的间距 */
+  }
+</style>
+
 <div class="publications">
   <h1>Publications</h1>
 
@@ -14,21 +47,19 @@
           <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
           <p>{{ post.venue }}</p>
           <p>{{ post.description }}</p>
-          {% if post.paperurl %}
-            <p><a href="{{ post.paperurl }}" target="_blank">Read Paper</a></p>
+        </div>
+        <div class="publication-links">
+          {% if post.pdfurl %}
+            <a href="{{ post.pdfurl }}" target="_blank">PDF</a>
           {% endif %}
           {% if post.codeurl %}
-            <p><a href="{{ post.codeurl }}" target="_blank">View Code</a></p>
+            <a href="{{ post.codeurl }}" target="_blank">Code</a>
           {% endif %}
           {% if post.demourl %}
-            <p><a href="{{ post.demourl }}" target="_blank">View Demo</a></p>
-          {% endif %}
-          {% if post.pdfurl %}
-            <p><a href="{{ post.pdfurl }}" target="_blank">Download PDF</a></p>
+            <a href="{{ post.demourl }}" target="_blank">Demo</a>
           {% endif %}
         </div>
       </li>
     {% endfor %}
   </ul>
 </div>
-
