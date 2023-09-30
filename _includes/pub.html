@@ -44,7 +44,7 @@
   <h1>Publications</h1>
 
   <ul class="publication-list">
-    {% for post in site.publications %}
+    {% for post in site.publications reversed%}
       <li class="publication-item">
         <div class="publication-image">
           {% if post.image %}
