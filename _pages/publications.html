@@ -1,0 +1,83 @@
+---
+layout: archive
+permalink: /publications/
+title: Publications
+author_profile: true
+---
+You can also find my papers on <a href="https://scholar.google.com/citations?user=Evjy06kAAAAJ&hl=zh-CN" target="_blank">my Google Scholar profile</a>
+{% include base_path %}
+<style>
+  /* 新的 CSS 样式 */
+  .publications {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .publication-item {
+    flex: 1; /* 每个项目占据四分之一的宽度 */
+    display: flex;
+    align-items: center; /* 项目垂直居中对齐 */
+    margin-bottom: 3px; /* 底部留出一些间距 */
+  }
+
+  .publication-image {
+    flex: 1; /* 图片占据四分之一的宽度 */
+    text-align: center; /* 文本水平居中对齐 */
+    vertical-align: middle; /* 图片垂直居中对齐 */
+    align-items: center; /* 图片垂直居中对齐 */
+    margin-right: 20px;
+  }
+
+  .publication-image img {
+    max-width: 100%;
+    max-height: 100vh; /* 图片高度不超过视口高度 */
+    display: inline-block; /* 让图像作为内联块元素 */
+    vertical-align: middle; /* 图片垂直居中对齐 */
+  }
+
+  .publication-content {
+    flex: 3; /* 内容占据三分之一的宽度 */
+    font-size: 12px; /* 调整字体大小为16像素，根据需要调整 */
+  }
+
+  /* 减小段落的上下间距 */
+  .publication-content p {
+    margin: 0.5em 0; /* 适当调整上下间距 */
+  }
+
+  /* 调整链接之间的间隔 */
+  .publication-links a {
+    margin-right: 10px; /* 链接右侧留出一些间距 */
+  }
+</style>
+<div class="publications">
+  <ul class="publication-list">
+    {% for post in site.publications reversed%}
+      <li class="publication-item">
+        <!-- 添加图片 -->
+        <div class="publication-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+        </div>
+        <div class="publication-content">
+          <h2>{{ post.title }}</h2>
+          <p class="publication-author">{{ post.author }}</p>
+          <p class="publication-journal">{{ post.journal }}</p>
+          <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
+          <p>{{ post.venue }}</p>
+          <p>{{ post.description }}</p>
+          <div class="publication-links">
+            {% if post.pdfurl %}
+              <a href="{{ post.pdfurl }}" target="_blank">PDF</a>
+            {% endif %}
+            {% if post.codeurl %}
+              <a href="{{ post.codeurl }}" target="_blank">Code</a>
+            {% endif %}
+            {% if post.demourl %}
+              <a href="{{ post.demourl }}" target="_blank">Demo</a>
+            {% endif %}
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
