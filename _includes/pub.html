@@ -2,23 +2,28 @@
   /* 新的 CSS 样式 */
   .publication-item {
     display: flex;
-    align-items: center; /* 项目垂直居中对齐 */
   }
 
   .publication-image {
     flex: 1; /* 图片占据三分之一的宽度 */
     margin-right: 20px; /* 图片右侧留出一些间距 */
+    text-align: center; /* 文本水平居中对齐 */
     display: flex;
-    justify-content: center; /* 图片水平居中对齐 */
+    align-items: center; /* 图片垂直居中对齐 */
   }
 
   .publication-image img {
     max-width: 100%;
-    max-height: 100%; /* 图片高度不超过父容器 */
+    max-height: 100vh; /* 图片高度不超过视口高度 */
+    display: inline-block; /* 让图像作为内联块元素 */
+    vertical-align: middle; /* 图片垂直居中对齐 */
   }
 
   .publication-content {
     flex: 2; /* 内容占据两分之一的宽度 */
+    display: flex;
+    flex-direction: column; /* 内容垂直堆叠 */
+    justify-content: flex-start; /* 内容顶部对齐 */
   }
 </style>
 
