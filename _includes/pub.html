@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <style>
   .publication-item {
     display: flex;
@@ -17,6 +21,8 @@
 
   .publication-content {
     flex: 1;
+    display: flex;
+    flex-direction: column; /* 将内容内部垂直排列 */
   }
 
   .publication-author {
@@ -29,7 +35,6 @@
   }
 
   .publication-links {
-    width: 100%; /* 让链接占满整个宽度 */
     margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
