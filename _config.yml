@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Shenghui Huang"
+title                    : "Yukun Su"
 title_separator          : "-"
-name                     : &name "Shenghui Huang"
+name                     : &name "Yukun Su"
 description              : &description "personal description"
-url                      : https://shenghuihuang01.github.io # the base hostname & protocol for your site e.g. "https://shenghuihuang01.github.io"
+url                      : https://suyukun666.github.io/suyukun.github.io/ # the base hostname & protocol for your site e.g. "https://shenghuihuang01.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shenghuihuang01/shenghuihuang01.github.io"
-teaser                   : "hsh.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : ""
+teaser                   : "yukun.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shenghui Huang"
-  avatar           : "hsh.jpg"
-  bio              : "Doctoral Student at South China University of Technology"
+  name             : "Yukun Su"
+  avatar           : "yukun.jpg"
+  bio              : "Ph.D Student at South China University of Technology and Nanyang Technological University"
   location         : "China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=Evjy06kAAAAJ&hl=zh-CN"
-  email            : "huangshenghui68@163.com"
+  googlescholar    : "https://scholar.google.com/citations?user=O00rbxoAAAAJ&hl=zh-CN"
+  email            : "suyukun666@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shenghuihuang01"
+  github           : "suyukun666"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9838-7095"
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

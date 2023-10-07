@@ -4,21 +4,13 @@ title: "Awards"
 author_profile: true
 ---
 
-Lastest Update: Aug 2023 &nbsp;
-
 ## Competitions
 
-- **Dec. 2021:** First prize of "Huawei Cup" the 18th China Post-graduate Mathematical Contest in Modeling
-- **Feb. 2021:** Silver Medal (139/3900) of Cassava Leaf Disease Classification (Kaggle Challenge) 
-- **Oct. 2021:** Bronze Medal (67/263) of Google Landmark Retrieval 2021 (Kaggle Challenge) 
+- **Nov. 2019:**  [CVPR2019 Workshop, FGVC6](https://www.kaggle.com/competitions/imet-2019-fgvc6), Silver medal.
+- **Nov. 2019:**  [Google Landmark Recognition 2019](https://www.kaggle.com/competitions/landmark-recognition-2019), Bronze medal.
 
 ## Honors
 
-- **Nov. 2022:** Second-class scholarship for post-graduate students
-- **Nov. 2021**: Second-class scholarship for post-graduate students
-- **Nov. 2020:** Second-class scholarship for post-graduate students
-
-## Servicess
-
-- 
+- **Nov. 2022:** Intel Ph.D Fellowship
+- **Nov. 2021**: National Ph.D Fellowship, China
 
