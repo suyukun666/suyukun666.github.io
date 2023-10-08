@@ -26,4 +26,3 @@ I am a final-year Ph.D. candidate in the School of Software Engineering at South
 - 2022.08: Two papers are accepted by **AAAI 2022** and **ECCV 2022** !
 - 2021.08: Three papers are accepted by **ICCV 2021** and **ACM MM 2021** !
 - 2020.08: One [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490069.pdf) is accepted by **ECCV 2020**  and is selected as <font color=#DC143C > **Spotlight** </font>!
-
