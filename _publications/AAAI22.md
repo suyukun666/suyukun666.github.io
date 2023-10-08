@@ -4,7 +4,7 @@ collection: publications
 image: ../files/paper_images/AAAI22.png
 pdfurl: https://ojs.aaai.org/index.php/AAAI/article/view/20127
 date: 2022-03-01
-author: Yukun Su, Guosheng Lin, Qingyao Wu
+author: <u>Yukun Su</u>, Guosheng Lin, Qingyao Wu
 journal: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI2022)'
 ---
 
