@@ -15,7 +15,5 @@ author_profile: true
 
 ### [Video Tracking](https://browse.arxiv.org/pdf/2308.15795.pdf)
 
-![t1](../images/t1.gif)
-
 <img src="../images/t1.gif" width=512 height=320 >
 
