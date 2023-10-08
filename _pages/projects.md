@@ -11,7 +11,7 @@ author_profile: true
 
 ### [Video Surveillance](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490069.pdf)
 
-![eccv20](../images/eccv20.png)
+<img src="../images/eccv20.gif" width=512 height=320 >
 
 ### [Video Tracking](https://browse.arxiv.org/pdf/2308.15795.pdf)
 
