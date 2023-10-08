@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### [Video Restoration](https://github.com/suyukun666/UFO)
+### [Video Enhancement](https://github.com/suyukun666/UFO)
 
 ![demo](../images/demo.gif)
 
