@@ -11,9 +11,7 @@ author_profile: true
 
 ### [Video Surveillance]()
 
-<center>
-<img src="../images/eccv20.png">
-</center>
+![eccv20](../images/eccv20.png)
 
 ### [Video Tracking](https://browse.arxiv.org/pdf/2308.15795.pdf)
 
