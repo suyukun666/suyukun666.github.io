@@ -4,7 +4,7 @@ collection: publications
 image: ../files/paper_images/iccv_skeleton.png
 pdfurl: https://openaccess.thecvf.com/content/ICCV2021/papers/Su_Self-Supervised_3D_Skeleton_Action_Representation_Learning_With_Motion_Consistency_and_ICCV_2021_paper.pdf
 date: 2021-08-01
-author: Yukun Su, Guosheng Lin, Qingyao Wu
+author: <u>Yukun Su</u>, Guosheng Lin, Qingyao Wu
 journal: 'IEEE International Conference on Computer Vision (ICCV2021)'
 ---
 

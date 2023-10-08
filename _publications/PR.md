@@ -5,7 +5,7 @@ image: ../files/paper_images/PR.png
 codeurl: https://github.com/photon-git/CGRL
 pdfurl: https://www.sciencedirect.com/science/article/abs/pii/S0031320323005411
 date: 2023-06-01
-author: Yun Hao*, Yukun Su*, Guosheng Lin, Hanjing Su, Qingyao Wu (* co-first author)
+author: Yun Hao*, <u>Yukun Su*</u>, Guosheng Lin, Hanjing Su, Qingyao Wu (* co-first author)
 journal: 'Pattern Recognition (2023)'
 ---
 

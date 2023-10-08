@@ -5,7 +5,7 @@ image: ../files/paper_images/DENET.png
 codeurl: https://github.com/lianchengmingjue/DENet
 pdfurl: https://ojs.aaai.org/index.php/AAAI/article/view/25337
 date: 2023-03-01
-author: Ruizhou Sun*, Yukun Su*, Qingyao Wu (* co-first author)
+author: Ruizhou Sun*, <u>Yukun Su*</u>, Qingyao Wu (* co-first author)
 journal: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI2023) Oral'
 ---
 

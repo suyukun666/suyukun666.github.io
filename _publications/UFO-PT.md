@@ -5,7 +5,7 @@ image: ../files/paper_images/UFO-PT.png
 codeurl: https://github.com/suyukun666/UFO-PT
 pdfurl: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660286.pdf
 date: 2022-08-01
-author: Yukun Su, Guosheng Lin, Ruizhou Sun, Qingyao Wu
+author: <u>Yukun Su</u>, Guosheng Lin, Ruizhou Sun, Qingyao Wu
 journal: 'European Conference on Computer Vision (ECCV2022)'
 ---
 

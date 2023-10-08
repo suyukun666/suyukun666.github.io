@@ -6,7 +6,7 @@ image: ../files/paper_images/CDA.png
 codeurl: https://github.com/suyukun666/CDA
 pdfurl: https://openaccess.thecvf.com/content/ICCV2021/papers/Su_Context_Decoupling_Augmentation_for_Weakly_Supervised_Semantic_Segmentation_ICCV_2021_paper.pdf
 date: 2021-08-01
-author: Yukun Su, Ruizhou Sun, Guosheng Lin, Qingyao Wu
+author: <u>Yukun Su</u>, Ruizhou Sun, Guosheng Lin, Qingyao Wu
 journal: 'IEEE International Conference on Computer Vision (ICCV2021)'
 ---
 

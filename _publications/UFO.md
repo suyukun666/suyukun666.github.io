@@ -6,7 +6,7 @@ codeurl: https://github.com/suyukun666/UFO
 demourl: https://huggingface.co/spaces/djl234/UFO
 pdfurl: https://arxiv.org/abs/2203.04708v2
 date: 2023-06-01
-author: Yukun Su, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Qingyao Wu
+author: <u>Yukun Su</u>, Jingliang Deng, Ruizhou Sun, Guosheng Lin, Qingyao Wu
 journal: 'IEEE Transactions on Multimedia (TMM2023)'
 ---
 
