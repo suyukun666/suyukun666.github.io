@@ -11,7 +11,8 @@ author_profile: true
 
 ## Honors
 
-- **Nov. 2022:** Intel Ph.D Scholarships
+- **Nov. 2023: **President Scholarship of SCUT
+- **Nov. 2022:** Intel Ph.D Scholarships 
 - **Nov. 2021**: National Scholarships for Ph.D. Students, China
 - **Nov. 2018**: National Scholarships for Undergraduate Students, China
 
