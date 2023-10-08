@@ -15,7 +15,7 @@ I am a final-year Ph.D. candidate in the School of Software Engineering at South
 ## ✏️ Research Interests
 
 - **Fundamental Vision:** Detection, Segmentation, and Restoration
-- **Multi-Modal Learning:** CLIP and Multimodal Large Language Models (MLLMs)
+- **Multi-Modal Learning:** Variant CLIP and Multimodal Large Language Models (MLLMs)
 - **AIGC:** Text-2-Video Generation and Video Editing
 
 ## 📰 News
