@@ -11,6 +11,7 @@ author_profile: true
 
 ## Honors
 
-- **Nov. 2022:** Intel Ph.D Fellowship
-- **Nov. 2021**: National Ph.D Fellowship, China
+- **Nov. 2022:** Intel Ph.D Scholarships
+- **Nov. 2021**: National Scholarships for Ph.D. Students, China
+- **Nov. 2018**: National Scholarships for Undergraduate Students, China
 
