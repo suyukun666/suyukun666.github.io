@@ -19,9 +19,7 @@ author_profile: true
 
 ### [Video Tracking]()
 
-```html
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="../images/t1.mp4" type="video/mp4">
 </videos>
-```
 
