@@ -21,8 +21,9 @@ I am a final-year Ph.D. candidate in the School of Software Engineering at South
 ## 📰 News
 
 
-- 2023.06: One [paper](https://browse.arxiv.org/pdf/2203.04708v2.pdf) is accepted by **TMM 2023**  and the [code](https://github.com/suyukun666/UFO) and [demo](https://huggingface.co/spaces/djl234/UFO) are released!
-- 2023.03: One [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25337) is accepted by **AAAI 2023**  and is selected as  **Oral** !
-- 2022.08: Two papers are accepted by **AAAI 2022** and **ECCV 2022** !
-- 2021.08: Three papers are accepted by **ICCV 2021** and **ACM MM 2021** !
-- 2020.08: One [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490069.pdf) is accepted by **ECCV 2020**  and is selected as **Spotlight** !
+- 2023.06: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005411) is accepted by ***Pattern Recognition (PR)* 2023** !
+- 2023.04: One [paper](https://browse.arxiv.org/pdf/2203.04708v2.pdf) is accepted by ***Transactions On MultiMedia (TMM) 2023***  and the [code](https://github.com/suyukun666/UFO) and [demo](https://huggingface.co/spaces/djl234/UFO) are released!
+- 2023.03: One [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25337) is accepted by ***AAAI 2023***  and is selected as  **Oral** !
+- 2022.08: Two papers are accepted by ***AAAI 2022*** and ***ECCV 2022*** !
+- 2021.08: Three papers are accepted by ***ICCV 2021*** and ***ACM MM 2021*** !
+- 2020.08: One [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490069.pdf) is accepted by ***ECCV 2020***  and is selected as **Spotlight** !
