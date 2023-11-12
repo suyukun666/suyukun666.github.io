@@ -5,10 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-### [Smart Image Cropping]()
-
-<img src="../images/smart_crop.gif" width=512 height=320 >
-
 ### [Video Enhancement](https://github.com/suyukun666/UFO)
 
 ![demo](../images/demo.gif)
