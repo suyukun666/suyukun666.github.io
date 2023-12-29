@@ -1,5 +1,5 @@
 ---
-title: "Dual Progressive Transformations for Weakly Supervised Semantic Segmentation"
+title: "Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization"
 collection: publications
 image: ../files/paper_images/scmnet.png
 pdfurl: https://browse.arxiv.org/pdf/2309.01331.pdf
