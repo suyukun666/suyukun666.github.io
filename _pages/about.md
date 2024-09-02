@@ -21,7 +21,7 @@ I received my Ph.D. from the School of Software Engineering at South China Unive
 ## 📰 News
 
 
-- 2024.08: One paper is accepted by ***Pattern Recognition (PR)* 202** !
+- 2024.08: One paper is accepted by ***Pattern Recognition (PR)* 2024** !
 - 2023.12: One paper is accepted by ***AAAI* 2024** !
 - 2023.06: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005411) is accepted by ***Pattern Recognition (PR)* 2023** !
 - 2023.04: One [paper](https://browse.arxiv.org/pdf/2203.04708v2.pdf) is accepted by ***Transactions On MultiMedia (TMM) 2023***  and the [code](https://github.com/suyukun666/UFO) and [demo](https://huggingface.co/spaces/djl234/UFO) are released!
