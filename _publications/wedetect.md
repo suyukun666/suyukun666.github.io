@@ -5,7 +5,7 @@ image: ../files/paper_images/wedetect.png
 codeurl: https://github.com/WeChatCV/WeDetect
 pdfurl: https://arxiv.org/pdf/2512.12309
 date: 2026-02-21
-author: Shenghao Fu*, <u>Yukun Su*</u>, Fengyun Rao, Jing LYU, Xiaohua Xie, Wei-Shi Zheng
+author: Shenghao Fu*, <u>Yukun Su*</u>, Fengyun Rao, Jing LYU, Xiaohua Xie, Wei-Shi Zheng (* co-first author)
 journal: 'IEEE/CVF Conference on Computer Vision & Pattern Recognition (CVPR2026)'
 ---
 
