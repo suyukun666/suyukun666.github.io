@@ -4,7 +4,7 @@ collection: publications
 image: ../files/paper_images/wedetect.png
 codeurl: https://arxiv.org/pdf/2512.12309
 pdfurl: https://arxiv.org/pdf/2401.08086.pdf
-date: 2024-02-26
+date: 2026-02-21
 author: Shenghao Fu*, <u>Yukun Su*</u>, Fengyun Rao, Jing LYU, Xiaohua Xie, Wei-Shi Zheng
 journal: 'IEEE/CVF Conference on Computer Vision & Pattern Recognition (CVPR2026)'
 ---
