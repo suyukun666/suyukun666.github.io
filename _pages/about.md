@@ -20,7 +20,7 @@ I received my Ph.D. from the School of Software Engineering at South China Unive
 
 ## 📰 News
 
-- 2026.01: One paper is accepted by ***CVPR* 2026** !
+- 2026.01: One [paper](https://arxiv.org/pdf/2512.12309) is accepted by ***CVPR* 2026** !
 - 2024.08: One paper is accepted by ***Pattern Recognition (PR)* 2024** !
 - 2023.12: One paper is accepted by ***AAAI* 2024** !
 - 2023.06: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005411) is accepted by ***Pattern Recognition (PR)* 2023** !
