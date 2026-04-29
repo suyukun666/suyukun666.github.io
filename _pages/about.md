@@ -19,7 +19,7 @@ I received my Ph.D. from the School of Software Engineering at South China Unive
 - **AIGC:** Text-2-Video Generation and Video Editing
 
 ## 📰 News
-
+- 2026.04: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426012832) is accepted by ***Expert Systems with Applications* 2026** !
 - 2026.01: One [paper](https://arxiv.org/pdf/2512.12309) is accepted by ***CVPR* 2026** !
 - 2024.08: One paper is accepted by ***Pattern Recognition (PR)* 2024** !
 - 2023.12: One paper is accepted by ***AAAI* 2024** !
