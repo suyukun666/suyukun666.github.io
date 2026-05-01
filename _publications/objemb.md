@@ -6,7 +6,7 @@ codeurl: https://github.com/WeChatCV/ObjEmbed
 pdfurl: https://arxiv.org/pdf/2602.01753
 date: 2026-05-01
 author: Shenghao fu, <u>Yukun Su</u>, Fengyun Rao, Jing LYU, Xiaohua Xie, Wei-Shi Zheng
-journal: 'ICML (2026)'
+journal: 'International Conference on Machine Learning (ICML2026)'
 ---
 
 [Download paper here]()
