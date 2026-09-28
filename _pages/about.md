@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am an senior researcher (through 大咖计划) in [Tencent Wechat AI Group](https://ai.weixin.qq.com/) after graduation, with the goal of conducting multi-modal learning research in artificial intelligence. Prior to joining Wechat, I was an intern at [Sensetime](https://www.sensetime.com/cn) (Singapore) 3D vision group.**
+**I am a Researcher at [WeChat AI](https://ai.weixin.qq.com/), Tencent, where I conduct research on multi-modal learning. I joined through the Qingyun Program (青云计划, formerly the Technology Daka Program / 技术大咖), Tencent's top-tier talent program for outstanding technical graduates. Prior to WeChat AI, I was a research intern with the 3D Vision Group at [SenseTime](https://www.sensetime.com/en) Singapore.**
 
 I received my Ph.D. from the School of Software Engineering at South China University of Technology ([SCUT](https://www.scut.edu.cn/new/)) and Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), advised by Prof. [Qingyao Wu](https://sites.google.com/site/qysite/) and Prof. [Guosheng Lin](https://guosheng.github.io/). I also work closely with Dr. [Fengyun Rao](https://scholar.google.com/citations?user=38dACd4AAAAJ&hl=en) in research.
 
