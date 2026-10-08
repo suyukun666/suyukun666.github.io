@@ -22,7 +22,7 @@ I received my Ph.D. from the School of Software Engineering at South China Unive
 - 2026.05: One [paper](https://arxiv.org/pdf/2602.01753) is accepted by ***ICML* 2026** !
 - 2026.04: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426012832) is accepted by ***Expert Systems with Applications* 2026** !
 - 2026.01: One [paper](https://arxiv.org/pdf/2512.12309) is accepted by ***CVPR* 2026** !
-- 2024.08: One paper is accepted by ***Pattern Recognition (PR)* 2024** !
+- 2024.08: One paper is accepted by ***Pattern Recognition (PR)* 2025** !
 - 2023.12: One paper is accepted by ***AAAI* 2024** !
 - 2023.06: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005411) is accepted by ***Pattern Recognition (PR)* 2023** !
 - 2023.04: One [paper](https://browse.arxiv.org/pdf/2203.04708v2.pdf) is accepted by ***Transactions On MultiMedia (TMM) 2023***  and the [code](https://github.com/suyukun666/UFO) and [demo](https://huggingface.co/spaces/djl234/UFO) are released!
