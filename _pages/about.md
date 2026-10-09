@@ -14,9 +14,10 @@ I received my Ph.D. from the School of Software Engineering at South China Unive
 
 ## ✏️ Research Interests
 
-- **Fundamental Vision:** Detection, Segmentation, and Restoration
-- **Multi-Modal Learning:** Variant CLIP and Multimodal Large Language Models (MLLMs)
-- **AIGC:** Text-2-Video Generation and Video Editing
+- **Computer Vision:** Object Detection, Segmentation, and Restoration
+- **Multimodal Learning:** CLIP-based Models and Multimodal Large Language Models (MLLMs)
+- **Generative AI:** Text-to-Video Generation and Video Editing
+- **Embodied AI:** Vision-Language-Action (VLA) Models and Open-World Generalization
 
 ## 📰 News
 - 2026.05: One [paper](https://arxiv.org/pdf/2602.01753) is accepted by ***ICML* 2026** !
