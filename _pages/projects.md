@@ -7,7 +7,7 @@ author_profile: true
 
 ### [Open-World Recognition](https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_WeDetect_Fast_Open-Vocabulary_Object_Detection_as_Retrieval_CVPR_2026_paper.pdf)
 
-<img src="../images/wedetect_anything4.png" width=512 height=320 >
+<img src="../images/wedetect.gif" width=512 height=320 >
 
 ### [Smart Cropping](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=O00rbxoAAAAJ&citation_for_view=O00rbxoAAAAJ:qUcmZB5y_30C)
 
