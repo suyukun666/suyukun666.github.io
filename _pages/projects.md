@@ -11,7 +11,7 @@ author_profile: true
 
 ### [Smart Cropping](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=O00rbxoAAAAJ&citation_for_view=O00rbxoAAAAJ:qUcmZB5y_30C)
 
-<img src="../images/smart_crop.gif" width=512 height=320 >
+<img src="../images/smart_crop_new.gif" width=512 height=320 >
 
 ### [Video Enhancement](https://www.sciencedirect.com/science/article/pii/S1077314223002965)
 
